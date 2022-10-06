@@ -1,0 +1,18 @@
+{
+  "name": "ss88-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวย80บาทออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวย80บาทออนไลน์",
+"เว็บหวยยี่กีออนไลน์",
+"download lottovip",
+"หวยเศรษฐี",
+"แอพ lottovip เข้าไม่ได้"
+],
+  "repository": "https://github.com/setteebet/ss88-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
